@@ -1,0 +1,7 @@
+Youhou!
+<hr />
+<?php
+
+phpinfo();
+
+?>
